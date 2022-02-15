@@ -1,0 +1,50 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  day: 0
+  hour: 0
+  location: MyString
+  minimum: 1
+  parish: one
+
+two:
+  day: 1
+  hour: 1
+  location: MyString
+  minimum: 1
+  parish: two
+
+three:
+  day: 2
+  hour: 2
+  location: MyString
+  minimum: 1
+  parish: two
+
+four:
+  day: 3
+  hour: 3
+  location: MyString
+  minimum: 1
+  parish: two
+
+five:
+  day: 4
+  hour: 4
+  location: MyString
+  minimum: 1
+  parish: two
+
+six:
+  day: 5
+  hour: 5
+  location: MyString
+  minimum: 1
+  parish: two
+
+seven:
+  day: 6
+  hour: 6
+  location: MyString
+  minimum: 1
+  parish: two
